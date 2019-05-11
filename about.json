@@ -3,6 +3,7 @@
   "about_url": "chaboi3000.me",
   "license_url": "https://github.com/Chaboi45/Discourse-Choose-Font/blob/master/LICENSE",
   "authors": "Chaboi_3000",
+  "component": true,
   "theme_version": "0.1"
   
 }
