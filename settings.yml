@@ -1,0 +1,13 @@
+font:
+  default: monospace
+  type: enum
+  choices:
+    - Helvetica
+    - monospace
+    - Consolas
+    - Roboto
+    - Lato
+    - Palatino
+    - Georgia
+    - Lucida Grande
+  description: "Choose font family"
